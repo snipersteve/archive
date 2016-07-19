@@ -1,6 +1,6 @@
 # 关于法律
 
 暂时不知道要写什么。
+[网址](ecube.red)
 
 
-# snipersteve.github.io
