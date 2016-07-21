@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>ecube.red/</loc>
-  <lastmod>2016-07-21T17:25:16+08:00</lastmod>
+  <lastmod>2016-07-21T17:32:38+08:00</lastmod>
 </url>
 
 <url>
@@ -23,6 +23,11 @@
 <url>
   <loc>ecube.red/gtd.html</loc>
   <lastmod>2016-07-19T09:29:44+08:00</lastmod>
+</url>
+
+<url>
+  <loc>ecube.red/energy.html</loc>
+  <lastmod>2016-07-18T17:28:19+08:00</lastmod>
 </url>
 
 
