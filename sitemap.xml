@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>ecube.red/</loc>
-  <lastmod>2016-07-21T17:36:49+08:00</lastmod>
+  <lastmod>2016-07-22T00:37:53+08:00</lastmod>
 </url>
 
 <url>
@@ -21,8 +21,23 @@
 </url>
 
 <url>
+  <loc>ecube.red/time.html</loc>
+  <lastmod>2016-07-19T10:08:08+08:00</lastmod>
+</url>
+
+<url>
   <loc>ecube.red/gtd.html</loc>
   <lastmod>2016-07-19T09:29:44+08:00</lastmod>
+</url>
+
+<url>
+  <loc>ecube.red/logic.html</loc>
+  <lastmod>2016-07-19T09:08:25+08:00</lastmod>
+</url>
+
+<url>
+  <loc>ecube.red/life.html</loc>
+  <lastmod>2016-07-19T08:08:59+08:00</lastmod>
 </url>
 
 <url>
@@ -31,6 +46,10 @@
 </url>
 
 
+
+<url>
+  <loc>ecube.red/30%E5%B2%81%E5%9B%9E%E9%A1%BE.html</loc>
+</url>
 
 <url>
   <loc>ecube.red/%E6%B3%95%E5%BE%8B%E4%BA%BA%E7%94%9F.html</loc>
