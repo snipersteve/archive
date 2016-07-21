@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>ecube.red/</loc>
-  <lastmod>2016-07-21T15:15:43+08:00</lastmod>
+  <lastmod>2016-07-21T15:31:42+08:00</lastmod>
 </url>
 
 <url>
@@ -15,12 +15,11 @@
   <lastmod>2016-07-19T12:43:15+08:00</lastmod>
 </url>
 
+
+
 <url>
-  <loc>ecube.red/github.html</loc>
-  <lastmod>2013-02-07T10:49:42+08:00</lastmod>
+  <loc>ecube.red/%E6%B3%95%E5%AD%A6.html</loc>
 </url>
-
-
 
 
 </urlset>
