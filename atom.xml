@@ -4,7 +4,7 @@
   <title><![CDATA[能者]]></title>
   <link href="ecube.red/atom.xml" rel="self"/>
   <link href="ecube.red/"/>
-  <updated>2016-07-22T00:37:53+08:00</updated>
+  <updated>2016-07-22T00:41:06+08:00</updated>
   <id>ecube.red/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -174,12 +174,14 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[GTD噩梦]]></title>
+    <title type="html"><![CDATA[走入误区]]></title>
     <link href="ecube.red/gtd.html"/>
     <updated>2016-07-19T13:29:44+08:00</updated>
     <id>ecube.red/gtd.html</id>
     <content type="html"><![CDATA[
-<p><a href="http://en.wikipedia.org/wiki/Getting_Things_Done">GTD</a>其实适用人群极为有限，并非适合所有人，甚至对大部分人来说，是一场噩梦。我在很多年以后，才明白这个道理。具体表现在以下方面：</p>
+<p>早在2006年，我在中关村买了一个PDA（Palm TX），当时想装DTG（Document to go）来看word文件，却不小心进了<a href="http://en.wikipedia.org/wiki/Getting_Things_Done">GTD</a>（Get things done）的帖子，并开始了解这一领域。</p>
+
+<p>十年过去回头看，发现GTD其实适用人群极为有限，并非适合所有人，甚至对大部分人来说，是一场噩梦。</p>
 
 <h2 id="toc_0">工具沉迷</h2>
 
@@ -209,7 +211,7 @@
 
 <p>不过，总体来说，所有的一切都是个性使然，后天改善总归效果有限。这也是一种命，不必过于强求。</p>
 
-<p>回看一切的起因，是我在2006年买了一个PDA（Palm TX），想装DTG（Document to go）来看word文件，不小心却进了GTD（Get things done）的帖子，才开始了解这一领域，并研究了一堆工具。所以说，GTD的迷思因追求新技术起，因沉迷技术手段而走入误区，这是我所称<code>技术渗透</code>的反面教训。</p>
+<p>GTD的迷思因追求新技术起，因沉迷技术手段而走入误区，这是我所称<code>技术渗透</code>的反面教训。</p>
 
 ]]></content>
   </entry>
@@ -262,11 +264,11 @@
 <p>道理懂得很多，却过不好这一生。前文说诸事靠推理，是说去预演。真正的人生还是要实际去体会，人的成长还是要靠历练。亦即上文所说“逻辑与历史的融合”。</p>
 
 <p>可以先看看别人的历程。大部分成功学家，都喜欢分享自己的人生经历，往往有夸大的成份。<br/>
-《我的奋斗》<br/>
-李笑来[《我是如何获得财务自由的》]<br/>
-ibuick在podcast中讲奋斗史<br/>
-tinyfool讲的[前妻故事]<br/>
-刘未鹏[《我在南大的七年》]</p>
+罗永浩<a href="https://book.douban.com/subject/4741216/">《我的奋斗》</a><br/>
+李笑来<a href="http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&amp;mid=400875301&amp;idx=1&amp;sn=c5374f87d9676259f7f16d7b48c6ca0e&amp;3rd=MzA3MDU4NTYzMw==&amp;scene=6#rd">《我是如何获得财务自由的》</a><br/>
+ibuick在podcast中讲<a href="http://www.podcastchart.com/podcasts/ibuick-italk-a3b207ee-9df3-42c7-bbeb-41c28f0debdc">《我的十年》</a><br/>
+tinyfool讲的<a href="http://mp.weixin.qq.com/s?__biz=MjM5MjUwNzIyMA==&amp;mid=400060668&amp;idx=1&amp;sn=9064cf2be8b99bdfb0fdf9eba157eaf6&amp;scene=23&amp;srcid=1023T4YvC6lwNJPXA5YRCfoA#rd">《前妻故事》</a><br/>
+刘未鹏<a href="http://mindhacks.cn/2009/05/17/seven-years-in-nju/">《我在南大的七年》</a></p>
 
 <p>沉浸式学习的体会其实很少，大多情况下都很浮躁。当年复习司法考试时，三大本不看，倒是读了不少闲书，那段时间，是真正沉浸的。</p>
 
