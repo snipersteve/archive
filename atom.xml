@@ -4,7 +4,7 @@
   <title><![CDATA[能者]]></title>
   <link href="ecube.red/atom.xml" rel="self"/>
   <link href="ecube.red/"/>
-  <updated>2016-07-22T00:41:06+08:00</updated>
+  <updated>2016-07-22T10:56:25+08:00</updated>
   <id>ecube.red/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -143,7 +143,7 @@
 
 <p>我感叹路由器真是深不见底，我折腾半天，也只用了不到一半的功能，这大约是我智商的极限了，有空我得去读读TCP/IP，研究一下其中的原理。</p>
 
-<p>不过更深一层的是，网络路由似乎也是我的人生路由，不管是给小姑娘修电脑还是导师介绍女朋友，都是因路由器而产生的机会。这种因路由创造路由，是我多年来获益颇多的方式，也是我所称<code>技术渗透</code>的一种典型。</p>
+<p>不过更深一层的是，网络路由似乎也是我的人生路由，不管是给小姑娘修电脑还是导师介绍女朋友，都是因路由器而产生的机会。这种因路由创造路由，是我多年来获益颇多的方式，也是我所称<mark>技术渗透</mark>的一种典型。</p>
 
 ]]></content>
   </entry>
@@ -211,7 +211,7 @@
 
 <p>不过，总体来说，所有的一切都是个性使然，后天改善总归效果有限。这也是一种命，不必过于强求。</p>
 
-<p>GTD的迷思因追求新技术起，因沉迷技术手段而走入误区，这是我所称<code>技术渗透</code>的反面教训。</p>
+<p>GTD的迷思因追求新技术起，因沉迷技术手段而走入误区，这是我所称<mark>技术渗透</mark>的反面教训。</p>
 
 ]]></content>
   </entry>
@@ -263,18 +263,21 @@
     <content type="html"><![CDATA[
 <p>道理懂得很多，却过不好这一生。前文说诸事靠推理，是说去预演。真正的人生还是要实际去体会，人的成长还是要靠历练。亦即上文所说“逻辑与历史的融合”。</p>
 
-<p>可以先看看别人的历程。大部分成功学家，都喜欢分享自己的人生经历，往往有夸大的成份。<br/>
-罗永浩<a href="https://book.douban.com/subject/4741216/">《我的奋斗》</a><br/>
-李笑来<a href="http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&amp;mid=400875301&amp;idx=1&amp;sn=c5374f87d9676259f7f16d7b48c6ca0e&amp;3rd=MzA3MDU4NTYzMw==&amp;scene=6#rd">《我是如何获得财务自由的》</a><br/>
-ibuick在podcast中讲<a href="http://www.podcastchart.com/podcasts/ibuick-italk-a3b207ee-9df3-42c7-bbeb-41c28f0debdc">《我的十年》</a><br/>
-tinyfool讲的<a href="http://mp.weixin.qq.com/s?__biz=MjM5MjUwNzIyMA==&amp;mid=400060668&amp;idx=1&amp;sn=9064cf2be8b99bdfb0fdf9eba157eaf6&amp;scene=23&amp;srcid=1023T4YvC6lwNJPXA5YRCfoA#rd">《前妻故事》</a><br/>
-刘未鹏<a href="http://mindhacks.cn/2009/05/17/seven-years-in-nju/">《我在南大的七年》</a></p>
+<p>可以先看看别人的历程。大部分成功学家，都喜欢分享自己的人生经历，往往有夸大的成份。</p>
+
+<ul>
+<li>罗永浩<a href="https://book.douban.com/subject/4741216/">《我的奋斗》</a></li>
+<li>李笑来<a href="http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&amp;mid=400875301&amp;idx=1&amp;sn=c5374f87d9676259f7f16d7b48c6ca0e&amp;3rd=MzA3MDU4NTYzMw==&amp;scene=6#rd">《我是如何获得财务自由的》</a></li>
+<li>ibuick的podcast<a href="http://www.podcastchart.com/podcasts/ibuick-italk-a3b207ee-9df3-42c7-bbeb-41c28f0debdc">《我的十年》</a></li>
+<li>tinyfool的<a href="http://mp.weixin.qq.com/s?__biz=MjM5MjUwNzIyMA==&amp;mid=400060668&amp;idx=1&amp;sn=9064cf2be8b99bdfb0fdf9eba157eaf6&amp;scene=23&amp;srcid=1023T4YvC6lwNJPXA5YRCfoA#rd">《前妻故事》</a></li>
+<li>刘未鹏<a href="http://mindhacks.cn/2009/05/17/seven-years-in-nju/">《我在南大的七年》</a></li>
+</ul>
 
 <p>沉浸式学习的体会其实很少，大多情况下都很浮躁。当年复习司法考试时，三大本不看，倒是读了不少闲书，那段时间，是真正沉浸的。</p>
 
 <p>最难的部分是人与人之前的关系，我到最近才明白人际张力。《北上广不相信眼泪》这部剧很好地表现了这一概念。</p>
 
-<p>我是典型的不愿意与人相争的性格，表现为大学打球时，到了最后最紧张的人盯人阶段，还要和盯防对象唠嗑。《万万没想到》一书中称之为。。。</p>
+<p>我是典型的不愿意与人相争的性格，表现为大学打球时，到了最后最紧张的人盯人阶段，还要和盯防对象唠嗑。《万万没想到》一书中称之为“夺魁者本色”。</p>
 
 <p><code>30岁三部曲之三</code></p>
 
