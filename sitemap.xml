@@ -2,12 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>core.shoufl.com/</loc>
-  <lastmod>2017-02-16T13:02:21+08:00</lastmod>
-</url>
-
-<url>
-  <loc>core.shoufl.com/money.html</loc>
-  <lastmod>2016-09-22T09:13:55+08:00</lastmod>
+  <lastmod>2017-02-16T13:41:14+08:00</lastmod>
 </url>
 
 <url>
@@ -16,8 +11,8 @@
 </url>
 
 <url>
-  <loc>core.shoufl.com/analogy.html</loc>
-  <lastmod>2016-07-19T12:43:15+08:00</lastmod>
+  <loc>core.shoufl.com/thinking.html</loc>
+  <lastmod>2016-07-19T13:35:44+08:00</lastmod>
 </url>
 
 <url>
@@ -36,8 +31,18 @@
 </url>
 
 <url>
+  <loc>core.shoufl.com/money.html</loc>
+  <lastmod>2016-07-19T09:13:55+08:00</lastmod>
+</url>
+
+<url>
   <loc>core.shoufl.com/logic.html</loc>
   <lastmod>2016-07-19T09:08:25+08:00</lastmod>
+</url>
+
+<url>
+  <loc>core.shoufl.com/analogy.html</loc>
+  <lastmod>2016-07-19T08:43:15+08:00</lastmod>
 </url>
 
 <url>
