@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[能者]]></title>
-  <link href="ecube.red/atom.xml" rel="self"/>
-  <link href="ecube.red/"/>
-  <updated>2016-07-22T11:02:04+08:00</updated>
-  <id>ecube.red/</id>
+  <title><![CDATA[核心]]></title>
+  <link href="core.shoufl.com/atom.xml" rel="self"/>
+  <link href="core.shoufl.com/"/>
+  <updated>2016-08-17T16:27:29+08:00</updated>
+  <id>core.shoufl.com/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -14,10 +14,27 @@
 
   
   <entry>
+    <title type="html"><![CDATA[金钱万能]]></title>
+    <link href="core.shoufl.com/money.html"/>
+    <updated>2016-09-22T09:13:55+08:00</updated>
+    <id>core.shoufl.com/money.html</id>
+    <content type="html"><![CDATA[
+<p>经济学有个经济人假设，即每个人都是“唯利是图”的。在行为经济学里，人的行为可以被分析。</p>
+
+<p>金钱可以帮助理解所有问题的本质。</p>
+
+<p>如何赚钱？打工或是做做小生意相当于做加减法，今天赚一点，明天花一点，小学生水平。高年级学生需要学乘法，这个乘法就是金融衍生工具，资产证券化，是让资产成倍翻的办法。所以，想要发财，得先把乘法口诀表背熟了。</p>
+
+<p>任何问题归根到底其实都是经济问题，或者是钱的问题。任何问题都可以用商业逻辑或者钱的流动来解释。</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[法学入门]]></title>
-    <link href="ecube.red/law.html"/>
+    <link href="core.shoufl.com/law.html"/>
     <updated>2016-07-19T17:39:25+08:00</updated>
-    <id>ecube.red/law.html</id>
+    <id>core.shoufl.com/law.html</id>
     <content type="html"><![CDATA[
 <p>我读书很少，而且很慢，但读得比较细，读完各种演绎运用，所以理解还比较深。</p>
 
@@ -46,9 +63,9 @@
   
   <entry>
     <title type="html"><![CDATA[公司类比]]></title>
-    <link href="ecube.red/analogy.html"/>
+    <link href="core.shoufl.com/analogy.html"/>
     <updated>2016-07-19T12:43:15+08:00</updated>
-    <id>ecube.red/analogy.html</id>
+    <id>core.shoufl.com/analogy.html</id>
     <content type="html"><![CDATA[
 <p>突然脑子里想到一种类比：公司 vs 电脑。</p>
 
@@ -76,7 +93,7 @@
 <td>云服务器</td>
 </tr>
 <tr>
-<td>一人公司</td>
+<td>SPC</td>
 <td>单片机</td>
 </tr>
 </tbody>
@@ -121,9 +138,9 @@
   
   <entry>
     <title type="html"><![CDATA[两种路由]]></title>
-    <link href="ecube.red/router.html"/>
+    <link href="core.shoufl.com/router.html"/>
     <updated>2016-07-19T10:12:10+08:00</updated>
-    <id>ecube.red/router.html</id>
+    <id>core.shoufl.com/router.html</id>
     <content type="html"><![CDATA[
 <p>我的智商极限大约就是路由器了。</p>
 
@@ -150,9 +167,9 @@
   
   <entry>
     <title type="html"><![CDATA[时间管理]]></title>
-    <link href="ecube.red/time.html"/>
+    <link href="core.shoufl.com/time.html"/>
     <updated>2016-07-19T10:08:08+08:00</updated>
-    <id>ecube.red/time.html</id>
+    <id>core.shoufl.com/time.html</id>
     <content type="html"><![CDATA[
 <p>人到30岁，愈发觉得时间不够用，总要想办法去省时间。李笑来说人没有资格管理时间，只能管理自己，说得很对。不过我还是沿用常用说法，更方便表达。</p>
 
@@ -175,9 +192,9 @@
   
   <entry>
     <title type="html"><![CDATA[走入误区]]></title>
-    <link href="ecube.red/gtd.html"/>
+    <link href="core.shoufl.com/gtd.html"/>
     <updated>2016-07-19T13:29:44+08:00</updated>
-    <id>ecube.red/gtd.html</id>
+    <id>core.shoufl.com/gtd.html</id>
     <content type="html"><![CDATA[
 <p>早在2006年，我在中关村买了一个PDA（Palm TX），当时想装DTG（Document to go）来看word文件，却不小心进了<a href="http://en.wikipedia.org/wiki/Getting_Things_Done">GTD</a>（Get things done）的帖子，并开始了解这一领域。</p>
 
@@ -218,9 +235,9 @@
   
   <entry>
     <title type="html"><![CDATA[逻辑思维]]></title>
-    <link href="ecube.red/logic.html"/>
+    <link href="core.shoufl.com/logic.html"/>
     <updated>2016-07-19T10:08:25+08:00</updated>
-    <id>ecube.red/logic.html</id>
+    <id>core.shoufl.com/logic.html</id>
     <content type="html"><![CDATA[
 <p>前一篇讲时间的稀缺性，要利用好暗时间，达到延展感知的目的。但不管如何努力，人的时间总归有限，不可能事事亲历。超过人生经验的部分，可以通过逻辑推理去体会。</p>
 
@@ -230,14 +247,16 @@
 
 <p>听别人的不如按推理。</p>
 
-<p>烧耳机。耳机界的第一定理是“一分钱一分货，一块钱两分货”（在大部分消费领域都适用），对数曲线（而理财是指数曲线）。因此，耳机好不好，很多时候是不用看评测的，看价格即可。耳机界的第二定理是“越大的发声单元越容易出好声”，所以在同价位上，一般来说音箱好于耳机好于耳塞。</p>
+<p>烧耳机。耳机界的第一定理是“一分钱一分货，一块钱两分货”（在大部分消费领域都适用）的对数曲线。因此，耳机好不好，很多时候是不用看评测的，看价格即可。耳机界的第二定理是“越大的发声单元越容易出好声”，所以在同价位上，一般来说音箱好于耳机好于耳塞。</p>
 
 <p>就像写程序一样，把逻辑写好。<br/>
-一切难一理解的事情，必有深处逻辑未被发现。<br/>
-《近距离看美国》</p>
+一切难一理解的事情，必有深处逻辑未被发现。比如看《近距离看美国》，了解三权分立与联邦制的逻辑。</p>
 
-<p>万维钢《万万没想到》，用理工科思维理解世界。其中讲了大量的概率。<br/>
-李笑来也讲概率，以风险的角度切入。</p>
+<h2 id="toc_0">概率</h2>
+
+<p>万维钢《万万没想到》，用理工科思维理解世界。其中讲了大量的概率。</p>
+
+<p>李笑来也讲概率，以风险的角度切入。</p>
 
 <blockquote>
 <ol>
@@ -254,6 +273,19 @@
 
 <p>近期读汪丁丁经济史，讲的是逻辑与历史的融合。</p>
 
+<h2 id="toc_1">两个凡是</h2>
+
+<ul>
+<li>凡是需要我们解决的问题都是智商问题。</li>
+<li>凡是问题都可以从金钱角度着手思考。</li>
+</ul>
+
+<p>第一个凡是以前总认为自己情商不够，但后来慢慢发现情商这个东西，最终还是靠智商。人际关系这个东西，多思考，就能明白其中的各种细节，以后在说话时，自然会更有分寸。这就是情商高的表现。</p>
+
+<p>第二个凡是，任何问题归根到底其实都是经济问题，或者是钱的问题。任何问题都可以用商业逻辑或者钱的流动来解释。</p>
+
+<p>综上所述，本文的观点即人生不能也不必事事亲历，很多事情的结论可以用推理得出。有的时候，甚至都不用推理，赁直觉就能作出判断，比如看一个人的表达、处世方式，可以本能地看出这个人有没有问题，而且通常很准。更粗暴的做法是“以貌取人”，“人丑多做怪”，也能判个五五开。</p>
+
 <p><code>30岁三部曲之二</code></p>
 
 ]]></content>
@@ -261,9 +293,9 @@
   
   <entry>
     <title type="html"><![CDATA[人生历练]]></title>
-    <link href="ecube.red/life.html"/>
+    <link href="core.shoufl.com/life.html"/>
     <updated>2016-07-19T10:08:59+08:00</updated>
-    <id>ecube.red/life.html</id>
+    <id>core.shoufl.com/life.html</id>
     <content type="html"><![CDATA[
 <p>道理懂得很多，却过不好这一生。前文说诸事靠推理，是说去预演。真正的人生还是要实际去体会，人的成长还是要靠历练。亦即上文所说“逻辑与历史的融合”。</p>
 
@@ -284,17 +316,6 @@
 <p>我是典型的不愿意与人相争的性格，表现为大学打球时，到了最后最紧张的人盯人阶段，还要和盯防对象唠嗑。《万万没想到》一书中称之为“夺魁者本色”。</p>
 
 <p><code>30岁三部曲之三</code></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[能源法律]]></title>
-    <link href="ecube.red/energy.html"/>
-    <updated>2016-07-21T17:28:19+08:00</updated>
-    <id>ecube.red/energy.html</id>
-    <content type="html"><![CDATA[
-<p>学习能源法是学法律的一条捷径。</p>
 
 ]]></content>
   </entry>
